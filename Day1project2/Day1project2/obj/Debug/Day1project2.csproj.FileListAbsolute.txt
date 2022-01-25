@@ -1,0 +1,11 @@
+F:\NBprojects\Day1project2\Day1project2\bin\Debug\Day1project2.exe.config
+F:\NBprojects\Day1project2\Day1project2\bin\Debug\Day1project2.exe
+F:\NBprojects\Day1project2\Day1project2\bin\Debug\Day1project2.pdb
+F:\NBprojects\Day1project2\Day1project2\obj\Debug\Day1project2.csproj.AssemblyReference.cache
+F:\NBprojects\Day1project2\Day1project2\obj\Debug\Day1project2.csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day1project2\Day1project2\obj\Debug\Day1project2.Form1.resources
+F:\NBprojects\Day1project2\Day1project2\obj\Debug\Day1project2.Properties.Resources.resources
+F:\NBprojects\Day1project2\Day1project2\obj\Debug\Day1project2.csproj.GenerateResource.cache
+F:\NBprojects\Day1project2\Day1project2\obj\Debug\Day1project2.csproj.CoreCompileInputs.cache
+F:\NBprojects\Day1project2\Day1project2\obj\Debug\Day1project2.exe
+F:\NBprojects\Day1project2\Day1project2\obj\Debug\Day1project2.pdb
