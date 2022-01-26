@@ -1,0 +1,8 @@
+F:\NBprojects\Day2EveningProject3\Day2EveningProject3\obj\Debug\Day2EveningProject3.csproj.AssemblyReference.cache
+F:\NBprojects\Day2EveningProject3\Day2EveningProject3\obj\Debug\Day2EveningProject3.csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day2EveningProject3\Day2EveningProject3\obj\Debug\Day2EveningProject3.csproj.CoreCompileInputs.cache
+F:\NBprojects\Day2EveningProject3\Day2EveningProject3\bin\Debug\Day2EveningProject3.exe.config
+F:\NBprojects\Day2EveningProject3\Day2EveningProject3\bin\Debug\Day2EveningProject3.exe
+F:\NBprojects\Day2EveningProject3\Day2EveningProject3\bin\Debug\Day2EveningProject3.pdb
+F:\NBprojects\Day2EveningProject3\Day2EveningProject3\obj\Debug\Day2EveningProject3.exe
+F:\NBprojects\Day2EveningProject3\Day2EveningProject3\obj\Debug\Day2EveningProject3.pdb
