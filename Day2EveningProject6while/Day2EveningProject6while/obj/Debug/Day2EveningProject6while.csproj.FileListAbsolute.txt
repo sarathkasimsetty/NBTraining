@@ -5,3 +5,4 @@ F:\NBprojects\Day2EveningProject6while\Day2EveningProject6while\obj\Debug\Day2Ev
 F:\NBprojects\Day2EveningProject6while\Day2EveningProject6while\obj\Debug\Day2EveningProject6while.csproj.CoreCompileInputs.cache
 F:\NBprojects\Day2EveningProject6while\Day2EveningProject6while\obj\Debug\Day2EveningProject6while.exe
 F:\NBprojects\Day2EveningProject6while\Day2EveningProject6while\obj\Debug\Day2EveningProject6while.pdb
+F:\NBprojects\Day2EveningProject6while\Day2EveningProject6while\obj\Debug\Day2EveningProject6while.csproj.AssemblyReference.cache

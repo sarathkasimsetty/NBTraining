@@ -1,0 +1,15 @@
+Differnce between While loop and do While loop.
+
+While loop:
+#while loop checks condition first and that executes the statement.
+#While loop statement executes when condition will be true.
+#upto the condition will be satisfied
+
+
+
+
+do while loop:
+#do while loop frist executes the statement atleast once and that check the condition. 
+#do while statement will be executes that after check the condition true or flase.
+#In case conidition is true executes again upto condition will be satisfied.  
+

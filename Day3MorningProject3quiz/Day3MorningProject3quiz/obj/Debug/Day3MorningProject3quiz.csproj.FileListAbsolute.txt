@@ -1,0 +1,8 @@
+F:\NBprojects\Day3MorningProject3quiz\Day3MorningProject3quiz\bin\Debug\Day3MorningProject3quiz.exe.config
+F:\NBprojects\Day3MorningProject3quiz\Day3MorningProject3quiz\bin\Debug\Day3MorningProject3quiz.exe
+F:\NBprojects\Day3MorningProject3quiz\Day3MorningProject3quiz\bin\Debug\Day3MorningProject3quiz.pdb
+F:\NBprojects\Day3MorningProject3quiz\Day3MorningProject3quiz\obj\Debug\Day3MorningProject3quiz.csproj.AssemblyReference.cache
+F:\NBprojects\Day3MorningProject3quiz\Day3MorningProject3quiz\obj\Debug\Day3MorningProject3quiz.csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day3MorningProject3quiz\Day3MorningProject3quiz\obj\Debug\Day3MorningProject3quiz.csproj.CoreCompileInputs.cache
+F:\NBprojects\Day3MorningProject3quiz\Day3MorningProject3quiz\obj\Debug\Day3MorningProject3quiz.exe
+F:\NBprojects\Day3MorningProject3quiz\Day3MorningProject3quiz\obj\Debug\Day3MorningProject3quiz.pdb

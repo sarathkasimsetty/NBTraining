@@ -1,0 +1,8 @@
+F:\NBprojects\Day3MorningProject4switch\Day3MorningProject4switch\bin\Debug\Day3MorningProject4switch.exe.config
+F:\NBprojects\Day3MorningProject4switch\Day3MorningProject4switch\bin\Debug\Day3MorningProject4switch.exe
+F:\NBprojects\Day3MorningProject4switch\Day3MorningProject4switch\bin\Debug\Day3MorningProject4switch.pdb
+F:\NBprojects\Day3MorningProject4switch\Day3MorningProject4switch\obj\Debug\Day3MorningProject4switch.csproj.AssemblyReference.cache
+F:\NBprojects\Day3MorningProject4switch\Day3MorningProject4switch\obj\Debug\Day3MorningProject4switch.csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day3MorningProject4switch\Day3MorningProject4switch\obj\Debug\Day3MorningProject4switch.csproj.CoreCompileInputs.cache
+F:\NBprojects\Day3MorningProject4switch\Day3MorningProject4switch\obj\Debug\Day3MorningProject4switch.exe
+F:\NBprojects\Day3MorningProject4switch\Day3MorningProject4switch\obj\Debug\Day3MorningProject4switch.pdb

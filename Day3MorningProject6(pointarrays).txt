@@ -1,0 +1,13 @@
+The 6 points about arrays
+
+1. Arrays are collection of similar data types.
+
+2. Array variable size = Array Length x data type size.
+
+3. Array index start from zero.
+
+4. Arrays size cannot be increased dynamically.
+
+5. Array require sequential memory location.
+
+6. when you instization of array,the size of length not          mandatory because indirect telling to size using data 

@@ -1,0 +1,8 @@
+F:\NBprojects\Day3Morningproject8(initializeArray)\Day3Morningproject8(initializeArray)\bin\Debug\Day3Morningproject8(initializeArray).exe.config
+F:\NBprojects\Day3Morningproject8(initializeArray)\Day3Morningproject8(initializeArray)\bin\Debug\Day3Morningproject8(initializeArray).exe
+F:\NBprojects\Day3Morningproject8(initializeArray)\Day3Morningproject8(initializeArray)\bin\Debug\Day3Morningproject8(initializeArray).pdb
+F:\NBprojects\Day3Morningproject8(initializeArray)\Day3Morningproject8(initializeArray)\obj\Debug\Day3Morningproject8(initializeArray).csproj.AssemblyReference.cache
+F:\NBprojects\Day3Morningproject8(initializeArray)\Day3Morningproject8(initializeArray)\obj\Debug\Day3Morningproject8(initializeArray).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day3Morningproject8(initializeArray)\Day3Morningproject8(initializeArray)\obj\Debug\Day3Morningproject8(initializeArray).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day3Morningproject8(initializeArray)\Day3Morningproject8(initializeArray)\obj\Debug\Day3Morningproject8(initializeArray).exe
+F:\NBprojects\Day3Morningproject8(initializeArray)\Day3Morningproject8(initializeArray)\obj\Debug\Day3Morningproject8(initializeArray).pdb
