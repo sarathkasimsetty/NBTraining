@@ -1,0 +1,7 @@
+F:\NBprojects\Day6MorningProjects\Day6MorningProject7(lList.string)\Day6MorningProject7(lList.string)\obj\Debug\Day6MorningProject7(lList.string).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day6MorningProjects\Day6MorningProject7(lList.string)\Day6MorningProject7(lList.string)\obj\Debug\Day6MorningProject7(lList.string).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day6MorningProjects\Day6MorningProject7(lList.string)\Day6MorningProject7(lList.string)\bin\Debug\Day6MorningProject7(lList.string).exe.config
+F:\NBprojects\Day6MorningProjects\Day6MorningProject7(lList.string)\Day6MorningProject7(lList.string)\bin\Debug\Day6MorningProject7(lList.string).exe
+F:\NBprojects\Day6MorningProjects\Day6MorningProject7(lList.string)\Day6MorningProject7(lList.string)\bin\Debug\Day6MorningProject7(lList.string).pdb
+F:\NBprojects\Day6MorningProjects\Day6MorningProject7(lList.string)\Day6MorningProject7(lList.string)\obj\Debug\Day6MorningProject7(lList.string).exe
+F:\NBprojects\Day6MorningProjects\Day6MorningProject7(lList.string)\Day6MorningProject7(lList.string)\obj\Debug\Day6MorningProject7(lList.string).pdb

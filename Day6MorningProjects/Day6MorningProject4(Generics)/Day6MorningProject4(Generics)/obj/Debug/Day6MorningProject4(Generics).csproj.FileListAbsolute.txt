@@ -1,0 +1,8 @@
+F:\NBprojects\Day6MorningProjects\Day6MorningProject4(Generics)\Day6MorningProject4(Generics)\bin\Debug\Day6MorningProject4(Generics).exe.config
+F:\NBprojects\Day6MorningProjects\Day6MorningProject4(Generics)\Day6MorningProject4(Generics)\bin\Debug\Day6MorningProject4(Generics).exe
+F:\NBprojects\Day6MorningProjects\Day6MorningProject4(Generics)\Day6MorningProject4(Generics)\bin\Debug\Day6MorningProject4(Generics).pdb
+F:\NBprojects\Day6MorningProjects\Day6MorningProject4(Generics)\Day6MorningProject4(Generics)\obj\Debug\Day6MorningProject4(Generics).csproj.AssemblyReference.cache
+F:\NBprojects\Day6MorningProjects\Day6MorningProject4(Generics)\Day6MorningProject4(Generics)\obj\Debug\Day6MorningProject4(Generics).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day6MorningProjects\Day6MorningProject4(Generics)\Day6MorningProject4(Generics)\obj\Debug\Day6MorningProject4(Generics).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day6MorningProjects\Day6MorningProject4(Generics)\Day6MorningProject4(Generics)\obj\Debug\Day6MorningProject4(Generics).exe
+F:\NBprojects\Day6MorningProjects\Day6MorningProject4(Generics)\Day6MorningProject4(Generics)\obj\Debug\Day6MorningProject4(Generics).pdb

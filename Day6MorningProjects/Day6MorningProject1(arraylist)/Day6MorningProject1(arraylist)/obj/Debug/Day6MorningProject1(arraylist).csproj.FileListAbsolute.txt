@@ -1,0 +1,8 @@
+F:\NBprojects\Day6MorningProjects\Day6MorningProject1(arraylist)\Day6MorningProject1(arraylist)\bin\Debug\Day6MorningProject1(arraylist).exe.config
+F:\NBprojects\Day6MorningProjects\Day6MorningProject1(arraylist)\Day6MorningProject1(arraylist)\bin\Debug\Day6MorningProject1(arraylist).exe
+F:\NBprojects\Day6MorningProjects\Day6MorningProject1(arraylist)\Day6MorningProject1(arraylist)\bin\Debug\Day6MorningProject1(arraylist).pdb
+F:\NBprojects\Day6MorningProjects\Day6MorningProject1(arraylist)\Day6MorningProject1(arraylist)\obj\Debug\Day6MorningProject1(arraylist).csproj.AssemblyReference.cache
+F:\NBprojects\Day6MorningProjects\Day6MorningProject1(arraylist)\Day6MorningProject1(arraylist)\obj\Debug\Day6MorningProject1(arraylist).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day6MorningProjects\Day6MorningProject1(arraylist)\Day6MorningProject1(arraylist)\obj\Debug\Day6MorningProject1(arraylist).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day6MorningProjects\Day6MorningProject1(arraylist)\Day6MorningProject1(arraylist)\obj\Debug\Day6MorningProject1(arraylist).exe
+F:\NBprojects\Day6MorningProjects\Day6MorningProject1(arraylist)\Day6MorningProject1(arraylist)\obj\Debug\Day6MorningProject1(arraylist).pdb
