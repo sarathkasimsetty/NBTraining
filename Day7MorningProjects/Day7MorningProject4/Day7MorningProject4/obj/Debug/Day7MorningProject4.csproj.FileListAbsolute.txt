@@ -1,0 +1,8 @@
+F:\NBprojects\Day7MorningProjects\Day7MorningProject4\Day7MorningProject4\obj\Debug\Day7MorningProject4.csproj.AssemblyReference.cache
+F:\NBprojects\Day7MorningProjects\Day7MorningProject4\Day7MorningProject4\obj\Debug\Day7MorningProject4.csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day7MorningProjects\Day7MorningProject4\Day7MorningProject4\obj\Debug\Day7MorningProject4.csproj.CoreCompileInputs.cache
+F:\NBprojects\Day7MorningProjects\Day7MorningProject4\Day7MorningProject4\bin\Debug\Day7MorningProject4.exe.config
+F:\NBprojects\Day7MorningProjects\Day7MorningProject4\Day7MorningProject4\bin\Debug\Day7MorningProject4.exe
+F:\NBprojects\Day7MorningProjects\Day7MorningProject4\Day7MorningProject4\bin\Debug\Day7MorningProject4.pdb
+F:\NBprojects\Day7MorningProjects\Day7MorningProject4\Day7MorningProject4\obj\Debug\Day7MorningProject4.exe
+F:\NBprojects\Day7MorningProjects\Day7MorningProject4\Day7MorningProject4\obj\Debug\Day7MorningProject4.pdb
