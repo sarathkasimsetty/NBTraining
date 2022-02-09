@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "edac7fc2-2369-467c-8e59-ed6d89c9207c": {
+      "ProjectGuid": "edac7fc2-2369-467c-8e59-ed6d89c9207c",
+      "DisplayName": "Day13Project1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

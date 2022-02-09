@@ -1,0 +1,8 @@
+F:\NBprojects\Day13Projects\Day13Project11\Day13Project11\bin\Debug\Day13Project11.exe.config
+F:\NBprojects\Day13Projects\Day13Project11\Day13Project11\bin\Debug\Day13Project11.exe
+F:\NBprojects\Day13Projects\Day13Project11\Day13Project11\bin\Debug\Day13Project11.pdb
+F:\NBprojects\Day13Projects\Day13Project11\Day13Project11\obj\Debug\Day13Project11.csproj.AssemblyReference.cache
+F:\NBprojects\Day13Projects\Day13Project11\Day13Project11\obj\Debug\Day13Project11.csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day13Projects\Day13Project11\Day13Project11\obj\Debug\Day13Project11.csproj.CoreCompileInputs.cache
+F:\NBprojects\Day13Projects\Day13Project11\Day13Project11\obj\Debug\Day13Project11.exe
+F:\NBprojects\Day13Projects\Day13Project11\Day13Project11\obj\Debug\Day13Project11.pdb
