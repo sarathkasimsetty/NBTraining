@@ -5,3 +5,4 @@ F:\NBprojects\Day13Projects\Day13Project6\Day13Project6\obj\Debug\Day13Project6.
 F:\NBprojects\Day13Projects\Day13Project6\Day13Project6\obj\Debug\Day13Project6.csproj.CoreCompileInputs.cache
 F:\NBprojects\Day13Projects\Day13Project6\Day13Project6\obj\Debug\Day13Project6.exe
 F:\NBprojects\Day13Projects\Day13Project6\Day13Project6\obj\Debug\Day13Project6.pdb
+F:\NBprojects\Day13Projects\Day13Project6\Day13Project6\obj\Debug\Day13Project6.csproj.AssemblyReference.cache
