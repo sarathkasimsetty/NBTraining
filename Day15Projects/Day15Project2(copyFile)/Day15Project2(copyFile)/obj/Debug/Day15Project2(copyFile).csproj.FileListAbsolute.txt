@@ -1,0 +1,8 @@
+F:\NBprojects\Day15Projects\Day15Project2(copyFile)\Day15Project2(copyFile)\bin\Debug\Day15Project2(copyFile).exe.config
+F:\NBprojects\Day15Projects\Day15Project2(copyFile)\Day15Project2(copyFile)\bin\Debug\Day15Project2(copyFile).exe
+F:\NBprojects\Day15Projects\Day15Project2(copyFile)\Day15Project2(copyFile)\bin\Debug\Day15Project2(copyFile).pdb
+F:\NBprojects\Day15Projects\Day15Project2(copyFile)\Day15Project2(copyFile)\obj\Debug\Day15Project2(copyFile).csproj.AssemblyReference.cache
+F:\NBprojects\Day15Projects\Day15Project2(copyFile)\Day15Project2(copyFile)\obj\Debug\Day15Project2(copyFile).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day15Projects\Day15Project2(copyFile)\Day15Project2(copyFile)\obj\Debug\Day15Project2(copyFile).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day15Projects\Day15Project2(copyFile)\Day15Project2(copyFile)\obj\Debug\Day15Project2(copyFile).exe
+F:\NBprojects\Day15Projects\Day15Project2(copyFile)\Day15Project2(copyFile)\obj\Debug\Day15Project2(copyFile).pdb
