@@ -1,0 +1,8 @@
+F:\NBprojects\Day15Projects\Day15Project5(Quiz)\Day15Project5(Quiz)\bin\Debug\Day15Project5(Quiz).exe.config
+F:\NBprojects\Day15Projects\Day15Project5(Quiz)\Day15Project5(Quiz)\bin\Debug\Day15Project5(Quiz).exe
+F:\NBprojects\Day15Projects\Day15Project5(Quiz)\Day15Project5(Quiz)\bin\Debug\Day15Project5(Quiz).pdb
+F:\NBprojects\Day15Projects\Day15Project5(Quiz)\Day15Project5(Quiz)\obj\Debug\Day15Project5(Quiz).csproj.AssemblyReference.cache
+F:\NBprojects\Day15Projects\Day15Project5(Quiz)\Day15Project5(Quiz)\obj\Debug\Day15Project5(Quiz).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day15Projects\Day15Project5(Quiz)\Day15Project5(Quiz)\obj\Debug\Day15Project5(Quiz).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day15Projects\Day15Project5(Quiz)\Day15Project5(Quiz)\obj\Debug\Day15Project5(Quiz).exe
+F:\NBprojects\Day15Projects\Day15Project5(Quiz)\Day15Project5(Quiz)\obj\Debug\Day15Project5(Quiz).pdb

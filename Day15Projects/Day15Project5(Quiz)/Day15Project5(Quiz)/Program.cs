@@ -1,18 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day3MorningProject3quiz
+namespace Day15Project5_Quiz_
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             int ans, score = 0;
-            string name ;
-            char enter  ,i = 'y';
+            string name;
+            char enter, i = 'y';
 
             Console.WriteLine("Enter you Name: ");
             name = Console.ReadLine();
@@ -21,10 +22,10 @@ namespace Day3MorningProject3quiz
             Console.WriteLine("Hello {0} ,Welcome to quiz by Sarath ", name);
             Console.WriteLine("*********************************************");
 
-            Console.WriteLine("Are you ready for quiz {0},Enter a 'y' or 'n' ?",name);
+            Console.WriteLine("Are you ready for quiz {0},Enter a 'y' or 'n' ?", name);
             enter = Convert.ToChar(Console.ReadLine());
 
-            if ( enter == 'y')
+            if (enter == 'y')
             {
 
 
@@ -72,28 +73,21 @@ namespace Day3MorningProject3quiz
                 if (ans == 4)
                     score += 20;
 
-                if (score >= 60)
+                StreamWriter sn = new StreamWriter("F:\\File data\\quiz data.txt", true);
+                sn.WriteLine(name);
+                sn.WriteLine(score);
+                sn.Close();
+
+                Console.WriteLine("Score is recorded , Admin update to you by email");
+
+                /*if (score >= 60)
                     Console.WriteLine("Congratulation {0}, you got {1}% in this quiz", name, score);
                 else
-                    Console.WriteLine("Sorry {0}, you got {1}% in this quiz. Try again{0}", name, score);
+                    Console.WriteLine("Sorry {0}, you got {1}% in this quiz. Try again{0}", name, score);*/
 
 
                 Console.ReadLine();
             }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         }
     }
 }
