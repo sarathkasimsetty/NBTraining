@@ -1,0 +1,8 @@
+F:\NBprojects\Day16Projects\Day16Project2(Factorial)\Day16Project2(Factorial)\bin\Debug\Day16Project2(Factorial).exe.config
+F:\NBprojects\Day16Projects\Day16Project2(Factorial)\Day16Project2(Factorial)\bin\Debug\Day16Project2(Factorial).exe
+F:\NBprojects\Day16Projects\Day16Project2(Factorial)\Day16Project2(Factorial)\bin\Debug\Day16Project2(Factorial).pdb
+F:\NBprojects\Day16Projects\Day16Project2(Factorial)\Day16Project2(Factorial)\obj\Debug\Day16Project2(Factorial).csproj.AssemblyReference.cache
+F:\NBprojects\Day16Projects\Day16Project2(Factorial)\Day16Project2(Factorial)\obj\Debug\Day16Project2(Factorial).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day16Projects\Day16Project2(Factorial)\Day16Project2(Factorial)\obj\Debug\Day16Project2(Factorial).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day16Projects\Day16Project2(Factorial)\Day16Project2(Factorial)\obj\Debug\Day16Project2(Factorial).exe
+F:\NBprojects\Day16Projects\Day16Project2(Factorial)\Day16Project2(Factorial)\obj\Debug\Day16Project2(Factorial).pdb

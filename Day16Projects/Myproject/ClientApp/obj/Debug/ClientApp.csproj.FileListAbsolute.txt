@@ -1,0 +1,13 @@
+F:\NBprojects\Day16Projects\Myproject\ClientApp\bin\Debug\ClientApp.exe.config
+F:\NBprojects\Day16Projects\Myproject\ClientApp\bin\Debug\ClientApp.exe
+F:\NBprojects\Day16Projects\Myproject\ClientApp\bin\Debug\ClientApp.pdb
+F:\NBprojects\Day16Projects\Myproject\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+F:\NBprojects\Day16Projects\Myproject\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day16Projects\Myproject\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+F:\NBprojects\Day16Projects\Myproject\ClientApp\obj\Debug\ClientApp.exe
+F:\NBprojects\Day16Projects\Myproject\ClientApp\obj\Debug\ClientApp.pdb
+F:\NBprojects\Day16Projects\Myproject\ClientApp\bin\Debug\PublicLibrary.dll
+F:\NBprojects\Day16Projects\Myproject\ClientApp\bin\Debug\SarathLibrary.dll
+F:\NBprojects\Day16Projects\Myproject\ClientApp\bin\Debug\PublicLibrary.pdb
+F:\NBprojects\Day16Projects\Myproject\ClientApp\bin\Debug\SarathLibrary.pdb
+F:\NBprojects\Day16Projects\Myproject\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete

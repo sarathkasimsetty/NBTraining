@@ -1,0 +1,10 @@
+F:\NBprojects\Day16Projects\Day16Project5(libraryAPP)\Day16Project5(libraryAPP)\bin\Debug\Day16Project5(libraryAPP).exe.config
+F:\NBprojects\Day16Projects\Day16Project5(libraryAPP)\Day16Project5(libraryAPP)\bin\Debug\Day16Project5(libraryAPP).exe
+F:\NBprojects\Day16Projects\Day16Project5(libraryAPP)\Day16Project5(libraryAPP)\bin\Debug\Day16Project5(libraryAPP).pdb
+F:\NBprojects\Day16Projects\Day16Project5(libraryAPP)\Day16Project5(libraryAPP)\bin\Debug\SarathLibrary.dll
+F:\NBprojects\Day16Projects\Day16Project5(libraryAPP)\Day16Project5(libraryAPP)\obj\Debug\Day16Project5(libraryAPP).csproj.AssemblyReference.cache
+F:\NBprojects\Day16Projects\Day16Project5(libraryAPP)\Day16Project5(libraryAPP)\obj\Debug\Day16Project5(libraryAPP).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day16Projects\Day16Project5(libraryAPP)\Day16Project5(libraryAPP)\obj\Debug\Day16Project5(libraryAPP).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day16Projects\Day16Project5(libraryAPP)\Day16Project5(libraryAPP)\obj\Debug\Day16Project5(libraryAPP).csproj.CopyComplete
+F:\NBprojects\Day16Projects\Day16Project5(libraryAPP)\Day16Project5(libraryAPP)\obj\Debug\Day16Project5(libraryAPP).exe
+F:\NBprojects\Day16Projects\Day16Project5(libraryAPP)\Day16Project5(libraryAPP)\obj\Debug\Day16Project5(libraryAPP).pdb

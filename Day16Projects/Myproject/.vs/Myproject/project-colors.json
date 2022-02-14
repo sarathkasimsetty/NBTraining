@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6e02f4e-2a20-4c27-9d8d-ef2a475fde60": {
+      "ProjectGuid": "e6e02f4e-2a20-4c27-9d8d-ef2a475fde60",
+      "DisplayName": "SarathLibrary",
+      "ColorIndex": 0
+    },
+    "50fbcc36-528f-4caa-a9be-3dd60314a26b": {
+      "ProjectGuid": "50fbcc36-528f-4caa-a9be-3dd60314a26b",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    },
+    "d7bb1b97-8b52-4e7a-aaeb-1023430e50a3": {
+      "ProjectGuid": "d7bb1b97-8b52-4e7a-aaeb-1023430e50a3",
+      "DisplayName": "ClientApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

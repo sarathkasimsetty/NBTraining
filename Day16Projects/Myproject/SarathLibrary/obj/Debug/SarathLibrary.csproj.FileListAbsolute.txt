@@ -1,0 +1,5 @@
+F:\NBprojects\Day16Projects\Myproject\SarathLibrary\bin\Debug\SarathLibrary.dll
+F:\NBprojects\Day16Projects\Myproject\SarathLibrary\bin\Debug\SarathLibrary.pdb
+F:\NBprojects\Day16Projects\Myproject\SarathLibrary\obj\Debug\SarathLibrary.csproj.CoreCompileInputs.cache
+F:\NBprojects\Day16Projects\Myproject\SarathLibrary\obj\Debug\SarathLibrary.dll
+F:\NBprojects\Day16Projects\Myproject\SarathLibrary\obj\Debug\SarathLibrary.pdb

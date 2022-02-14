@@ -1,0 +1,8 @@
+F:\NBprojects\Day16Projects\Day16Project6(MultipleTable)\Day16Project6(MultipleTable)\bin\Debug\Day16Project6(MultipleTable).exe.config
+F:\NBprojects\Day16Projects\Day16Project6(MultipleTable)\Day16Project6(MultipleTable)\bin\Debug\Day16Project6(MultipleTable).exe
+F:\NBprojects\Day16Projects\Day16Project6(MultipleTable)\Day16Project6(MultipleTable)\bin\Debug\Day16Project6(MultipleTable).pdb
+F:\NBprojects\Day16Projects\Day16Project6(MultipleTable)\Day16Project6(MultipleTable)\obj\Debug\Day16Project6(MultipleTable).csproj.AssemblyReference.cache
+F:\NBprojects\Day16Projects\Day16Project6(MultipleTable)\Day16Project6(MultipleTable)\obj\Debug\Day16Project6(MultipleTable).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day16Projects\Day16Project6(MultipleTable)\Day16Project6(MultipleTable)\obj\Debug\Day16Project6(MultipleTable).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day16Projects\Day16Project6(MultipleTable)\Day16Project6(MultipleTable)\obj\Debug\Day16Project6(MultipleTable).exe
+F:\NBprojects\Day16Projects\Day16Project6(MultipleTable)\Day16Project6(MultipleTable)\obj\Debug\Day16Project6(MultipleTable).pdb
