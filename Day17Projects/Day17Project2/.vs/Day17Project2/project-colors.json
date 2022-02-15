@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19e16e1c-fdd8-42d3-9d62-50464a23a6a9": {
+      "ProjectGuid": "19e16e1c-fdd8-42d3-9d62-50464a23a6a9",
+      "DisplayName": "Day17Project2",
+      "ColorIndex": 0
+    },
+    "ee41cb67-50d0-4016-8c0a-a40c9aaeebe3": {
+      "ProjectGuid": "ee41cb67-50d0-4016-8c0a-a40c9aaeebe3",
+      "DisplayName": "SarathLibrary",
+      "ColorIndex": 1
+    },
+    "94f886a8-e7d8-4d63-8746-25a1b4687600": {
+      "ProjectGuid": "94f886a8-e7d8-4d63-8746-25a1b4687600",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
