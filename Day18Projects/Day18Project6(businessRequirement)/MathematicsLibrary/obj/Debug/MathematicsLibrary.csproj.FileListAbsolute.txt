@@ -1,0 +1,6 @@
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MathematicsLibrary\obj\Debug\MathematicsLibrary.csproj.CoreCompileInputs.cache
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MathematicsLibrary\obj\Debug\MathematicsLibrary.csproj.AssemblyReference.cache

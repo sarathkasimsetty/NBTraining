@@ -1,0 +1,14 @@
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\bin\Debug\MyApp.exe.config
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\bin\Debug\MyApp.exe
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\bin\Debug\MyApp.pdb
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\bin\Debug\MathematicsLibrary.dll
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\bin\Debug\MathematicsLibrary.pdb
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\obj\Debug\MyApp.csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\obj\Debug\MyApp.Form1.resources
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\obj\Debug\MyApp.exe
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\MyApp\obj\Debug\MyApp.pdb

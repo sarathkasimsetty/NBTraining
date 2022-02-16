@@ -1,0 +1,12 @@
+<Product>
+  <products id ="12" productname="Ac" price ="30000"></products>
+  <products id ="124" productname="Light" price ="300"></products>
+  <products id ="456" productname="Fan" price ="300"></products>
+  <products id ="45" productname="Moblie" price ="20000"></products>
+  <products id ="47" productname="Tv" price ="25000"></products>
+  <products id ="8" productname="washing machine" price ="30000"></products>
+  <products id ="6" productname="camera" price ="15000"></products>
+  <products id ="657" productname="Speakers" price ="1000"></products>
+  <products id ="142" productname="Smartwatch" price ="5000"></products>
+  <products id ="121" productname="Laptop" price ="45000"></products>
+</Product>

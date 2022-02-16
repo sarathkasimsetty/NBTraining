@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6434ac03-8a2b-4622-becc-fedb1ca14a6f": {
+      "ProjectGuid": "6434ac03-8a2b-4622-becc-fedb1ca14a6f",
+      "DisplayName": "Day18Project6(businessRequirement)",
+      "ColorIndex": 0
+    },
+    "e7574968-0dd5-4163-bb78-16ed3f1abf53": {
+      "ProjectGuid": "e7574968-0dd5-4163-bb78-16ed3f1abf53",
+      "DisplayName": "MathematicsLibrary",
+      "ColorIndex": 1
+    },
+    "84be5583-cd33-4140-bbf0-444f64e4418a": {
+      "ProjectGuid": "84be5583-cd33-4140-bbf0-444f64e4418a",
+      "DisplayName": "MyApp",
+      "ColorIndex": 2
+    },
+    "7e79fc00-5dd4-492c-abd1-6fad49261b9c": {
+      "ProjectGuid": "7e79fc00-5dd4-492c-abd1-6fad49261b9c",
+      "DisplayName": "MathematicsLibraryTests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

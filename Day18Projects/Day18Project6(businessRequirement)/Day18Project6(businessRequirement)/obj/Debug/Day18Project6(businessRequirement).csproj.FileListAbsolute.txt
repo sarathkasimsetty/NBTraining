@@ -1,0 +1,11 @@
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\Day18Project6(businessRequirement)\bin\Debug\Day18Project6(businessRequirement).exe.config
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\Day18Project6(businessRequirement)\bin\Debug\Day18Project6(businessRequirement).exe
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\Day18Project6(businessRequirement)\bin\Debug\Day18Project6(businessRequirement).pdb
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\Day18Project6(businessRequirement)\bin\Debug\MathematicsLibrary.dll
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\Day18Project6(businessRequirement)\bin\Debug\MathematicsLibrary.pdb
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\Day18Project6(businessRequirement)\obj\Debug\Day18Project6(businessRequirement).csproj.AssemblyReference.cache
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\Day18Project6(businessRequirement)\obj\Debug\Day18Project6(businessRequirement).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\Day18Project6(businessRequirement)\obj\Debug\Day18Project6(businessRequirement).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\Day18Project6(businessRequirement)\obj\Debug\Day18Project6(businessRequirement).csproj.CopyComplete
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\Day18Project6(businessRequirement)\obj\Debug\Day18Project6(businessRequirement).exe
+F:\NBprojects\Day18Projects\Day18Project6(businessRequirement)\Day18Project6(businessRequirement)\obj\Debug\Day18Project6(businessRequirement).pdb
