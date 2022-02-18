@@ -1,0 +1,8 @@
+F:\NBprojects\Day19Projects\Project2(ReadNames)\Project2(ReadNames)\bin\Debug\Project2(ReadNames).exe.config
+F:\NBprojects\Day19Projects\Project2(ReadNames)\Project2(ReadNames)\bin\Debug\Project2(ReadNames).exe
+F:\NBprojects\Day19Projects\Project2(ReadNames)\Project2(ReadNames)\bin\Debug\Project2(ReadNames).pdb
+F:\NBprojects\Day19Projects\Project2(ReadNames)\Project2(ReadNames)\obj\Debug\Project2(ReadNames).csproj.AssemblyReference.cache
+F:\NBprojects\Day19Projects\Project2(ReadNames)\Project2(ReadNames)\obj\Debug\Project2(ReadNames).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day19Projects\Project2(ReadNames)\Project2(ReadNames)\obj\Debug\Project2(ReadNames).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day19Projects\Project2(ReadNames)\Project2(ReadNames)\obj\Debug\Project2(ReadNames).exe
+F:\NBprojects\Day19Projects\Project2(ReadNames)\Project2(ReadNames)\obj\Debug\Project2(ReadNames).pdb

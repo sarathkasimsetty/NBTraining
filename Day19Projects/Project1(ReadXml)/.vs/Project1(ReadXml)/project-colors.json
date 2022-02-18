@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be46ebe4-59b4-46c1-acc1-865b7ebbef96": {
+      "ProjectGuid": "be46ebe4-59b4-46c1-acc1-865b7ebbef96",
+      "DisplayName": "Project1(ReadXml)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

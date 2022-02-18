@@ -1,0 +1,8 @@
+F:\NBprojects\Day19Projects\Project3(ReadXml)\Project3(ReadXml)\bin\Debug\Project3(ReadXml).exe.config
+F:\NBprojects\Day19Projects\Project3(ReadXml)\Project3(ReadXml)\bin\Debug\Project3(ReadXml).exe
+F:\NBprojects\Day19Projects\Project3(ReadXml)\Project3(ReadXml)\bin\Debug\Project3(ReadXml).pdb
+F:\NBprojects\Day19Projects\Project3(ReadXml)\Project3(ReadXml)\obj\Debug\Project3(ReadXml).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day19Projects\Project3(ReadXml)\Project3(ReadXml)\obj\Debug\Project3(ReadXml).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day19Projects\Project3(ReadXml)\Project3(ReadXml)\obj\Debug\Project3(ReadXml).exe
+F:\NBprojects\Day19Projects\Project3(ReadXml)\Project3(ReadXml)\obj\Debug\Project3(ReadXml).pdb
+F:\NBprojects\Day19Projects\Project3(ReadXml)\Project3(ReadXml)\obj\Debug\Project3(ReadXml).csproj.AssemblyReference.cache
