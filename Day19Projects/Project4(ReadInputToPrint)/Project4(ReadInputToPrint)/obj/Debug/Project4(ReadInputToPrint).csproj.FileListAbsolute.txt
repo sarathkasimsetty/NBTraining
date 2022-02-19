@@ -5,3 +5,4 @@ F:\NBprojects\Day19Projects\Project4(ReadInputToPrint)\Project4(ReadInputToPrint
 F:\NBprojects\Day19Projects\Project4(ReadInputToPrint)\Project4(ReadInputToPrint)\obj\Debug\Project4(ReadInputToPrint).csproj.CoreCompileInputs.cache
 F:\NBprojects\Day19Projects\Project4(ReadInputToPrint)\Project4(ReadInputToPrint)\obj\Debug\Project4(ReadInputToPrint).exe
 F:\NBprojects\Day19Projects\Project4(ReadInputToPrint)\Project4(ReadInputToPrint)\obj\Debug\Project4(ReadInputToPrint).pdb
+F:\NBprojects\Day19Projects\Project4(ReadInputToPrint)\Project4(ReadInputToPrint)\obj\Debug\Project4(ReadInputToPrint).csproj.AssemblyReference.cache
