@@ -1,0 +1,8 @@
+F:\NBprojects\Day20Projects\Project2(Delegate)\Project2(Delegate)\bin\Debug\Project2(Delegate).exe.config
+F:\NBprojects\Day20Projects\Project2(Delegate)\Project2(Delegate)\bin\Debug\Project2(Delegate).exe
+F:\NBprojects\Day20Projects\Project2(Delegate)\Project2(Delegate)\bin\Debug\Project2(Delegate).pdb
+F:\NBprojects\Day20Projects\Project2(Delegate)\Project2(Delegate)\obj\Debug\Project2(Delegate).csproj.AssemblyReference.cache
+F:\NBprojects\Day20Projects\Project2(Delegate)\Project2(Delegate)\obj\Debug\Project2(Delegate).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day20Projects\Project2(Delegate)\Project2(Delegate)\obj\Debug\Project2(Delegate).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day20Projects\Project2(Delegate)\Project2(Delegate)\obj\Debug\Project2(Delegate).exe
+F:\NBprojects\Day20Projects\Project2(Delegate)\Project2(Delegate)\obj\Debug\Project2(Delegate).pdb

@@ -1,0 +1,8 @@
+F:\NBprojects\Day20Projects\Project3(Nullable)\Project3(Nullable)\bin\Debug\Project3(Nullable).exe.config
+F:\NBprojects\Day20Projects\Project3(Nullable)\Project3(Nullable)\bin\Debug\Project3(Nullable).exe
+F:\NBprojects\Day20Projects\Project3(Nullable)\Project3(Nullable)\bin\Debug\Project3(Nullable).pdb
+F:\NBprojects\Day20Projects\Project3(Nullable)\Project3(Nullable)\obj\Debug\Project3(Nullable).csproj.AssemblyReference.cache
+F:\NBprojects\Day20Projects\Project3(Nullable)\Project3(Nullable)\obj\Debug\Project3(Nullable).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day20Projects\Project3(Nullable)\Project3(Nullable)\obj\Debug\Project3(Nullable).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day20Projects\Project3(Nullable)\Project3(Nullable)\obj\Debug\Project3(Nullable).exe
+F:\NBprojects\Day20Projects\Project3(Nullable)\Project3(Nullable)\obj\Debug\Project3(Nullable).pdb
