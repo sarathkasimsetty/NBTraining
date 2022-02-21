@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39b15c61-d500-47a0-9435-00d9649d4faa": {
+      "ProjectGuid": "39b15c61-d500-47a0-9435-00d9649d4faa",
+      "DisplayName": "MyClient",
+      "ColorIndex": 0
+    },
+    "a0c7e050-4bb5-4a37-a9b5-dff1a7943821": {
+      "ProjectGuid": "a0c7e050-4bb5-4a37-a9b5-dff1a7943821",
+      "DisplayName": "MyCilent(Desktop)",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

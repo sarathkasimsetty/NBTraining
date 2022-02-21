@@ -1,0 +1,8 @@
+F:\NBprojects\Day21Projects\MyClient\MyClient\bin\Debug\MyClient.exe.config
+F:\NBprojects\Day21Projects\MyClient\MyClient\bin\Debug\MyClient.exe
+F:\NBprojects\Day21Projects\MyClient\MyClient\bin\Debug\MyClient.pdb
+F:\NBprojects\Day21Projects\MyClient\MyClient\obj\Debug\MyClient.csproj.AssemblyReference.cache
+F:\NBprojects\Day21Projects\MyClient\MyClient\obj\Debug\MyClient.csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day21Projects\MyClient\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+F:\NBprojects\Day21Projects\MyClient\MyClient\obj\Debug\MyClient.exe
+F:\NBprojects\Day21Projects\MyClient\MyClient\obj\Debug\MyClient.pdb

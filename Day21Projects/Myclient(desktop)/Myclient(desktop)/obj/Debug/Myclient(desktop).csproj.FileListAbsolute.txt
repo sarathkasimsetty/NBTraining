@@ -1,0 +1,11 @@
+F:\NBprojects\Day21Projects\Myclient(desktop)\Myclient(desktop)\bin\Debug\Myclient(desktop).exe.config
+F:\NBprojects\Day21Projects\Myclient(desktop)\Myclient(desktop)\bin\Debug\Myclient(desktop).exe
+F:\NBprojects\Day21Projects\Myclient(desktop)\Myclient(desktop)\bin\Debug\Myclient(desktop).pdb
+F:\NBprojects\Day21Projects\Myclient(desktop)\Myclient(desktop)\obj\Debug\Myclient(desktop).csproj.AssemblyReference.cache
+F:\NBprojects\Day21Projects\Myclient(desktop)\Myclient(desktop)\obj\Debug\Myclient(desktop).csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day21Projects\Myclient(desktop)\Myclient(desktop)\obj\Debug\Myclient_desktop_.Form1.resources
+F:\NBprojects\Day21Projects\Myclient(desktop)\Myclient(desktop)\obj\Debug\Myclient_desktop_.Properties.Resources.resources
+F:\NBprojects\Day21Projects\Myclient(desktop)\Myclient(desktop)\obj\Debug\Myclient(desktop).csproj.GenerateResource.cache
+F:\NBprojects\Day21Projects\Myclient(desktop)\Myclient(desktop)\obj\Debug\Myclient(desktop).csproj.CoreCompileInputs.cache
+F:\NBprojects\Day21Projects\Myclient(desktop)\Myclient(desktop)\obj\Debug\Myclient(desktop).exe
+F:\NBprojects\Day21Projects\Myclient(desktop)\Myclient(desktop)\obj\Debug\Myclient(desktop).pdb
