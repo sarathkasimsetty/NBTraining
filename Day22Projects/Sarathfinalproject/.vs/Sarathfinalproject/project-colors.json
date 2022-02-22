@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2dbfafdb-936c-4fa3-8418-81727f55772a": {
+      "ProjectGuid": "2dbfafdb-936c-4fa3-8418-81727f55772a",
+      "DisplayName": "Sarathfinalproject",
+      "ColorIndex": 0
+    },
+    "b4f5e6e9-6263-4c9a-a9b9-a3d4e17ee390": {
+      "ProjectGuid": "b4f5e6e9-6263-4c9a-a9b9-a3d4e17ee390",
+      "DisplayName": "SarathClientApp",
+      "ColorIndex": 1
+    },
+    "7764b12f-1d25-4971-bde5-9198bfa096dc": {
+      "ProjectGuid": "7764b12f-1d25-4971-bde5-9198bfa096dc",
+      "DisplayName": "BusinesslogicLayer",
+      "ColorIndex": 2
+    },
+    "cc3d783f-cd17-4b6d-a0f7-a8816172876f": {
+      "ProjectGuid": "cc3d783f-cd17-4b6d-a0f7-a8816172876f",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

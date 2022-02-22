@@ -1,0 +1,13 @@
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\bin\Debug\SarathClientApp.exe.config
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\bin\Debug\SarathClientApp.exe
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\bin\Debug\SarathClientApp.pdb
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\obj\Debug\SarathClientApp.csproj.AssemblyReference.cache
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\obj\Debug\SarathClientApp.csproj.SuggestedBindingRedirects.cache
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\obj\Debug\SarathClientApp.csproj.CoreCompileInputs.cache
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\obj\Debug\SarathClientApp.exe
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\obj\Debug\SarathClientApp.pdb
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\bin\Debug\BusinesslogicLayer.dll
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\bin\Debug\DataAccessLayer.dll
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\bin\Debug\BusinesslogicLayer.pdb
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\bin\Debug\DataAccessLayer.pdb
+F:\NBprojects\Day22Projects\Sarathfinalproject\SarathClientApp\obj\Debug\SarathClientApp.csproj.CopyComplete
